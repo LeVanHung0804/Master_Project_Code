@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Blood Pressure/RNN_deeplearning_HW3/HW3_0860831/.idea/HW3_0860831.iml" filepath="$PROJECT_DIR$/../Blood Pressure/RNN_deeplearning_HW3/HW3_0860831/.idea/HW3_0860831.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MASTER_PROJECT.iml" filepath="$PROJECT_DIR$/.idea/MASTER_PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../gg_drive_backup/Semester_3/COMPUTER VISION/learn_python/big_datahw1/.idea/big_datahw1.iml" filepath="$PROJECT_DIR$/../../gg_drive_backup/Semester_3/COMPUTER VISION/learn_python/big_datahw1/.idea/big_datahw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../gg_drive_backup/Semester_3/COMPUTER VISION/learn_python/classification_vgg_ong_kien/.idea/classification_vgg_ong_kien.iml" filepath="$PROJECT_DIR$/../../gg_drive_backup/Semester_3/COMPUTER VISION/learn_python/classification_vgg_ong_kien/.idea/classification_vgg_ong_kien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Blood Pressure/model_PPG_VPG_APG_4_company/.idea/model_PPG_VPG_APG_4_company.iml" filepath="$PROJECT_DIR$/../Blood Pressure/model_PPG_VPG_APG_4_company/.idea/model_PPG_VPG_APG_4_company.iml" />
+    </modules>
+  </component>
+</project>
